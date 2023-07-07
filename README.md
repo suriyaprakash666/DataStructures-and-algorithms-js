@@ -14,3 +14,11 @@ This repository contains a collection of implementations of essential data struc
 - [Selection Sort](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Algorithms/selectionSort.js)
 - [Quick Sort](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Algorithms/quickSort.js)
 - [Merge Sort](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Algorithms/mergeSort.js)
+
+| Name               | Best     | Average  | Worst    | Memory |
+| :----------------- | :------- | :------- | :------- | :----- |
+| **Bubble Sort**    | n        | n^2      | n^2      | 1      |
+| **Insertion Sort** | n        | n^2      | n^2      | 1      |
+| **Selection Sort** | n^2      | n^2      | n^2      | 1      |
+| **Quick Sort**     | n log(n) | n log(n) | n^2      | log(n) |
+| **Merge Sort**     | n log(n) | n log(n) | n log(n) | n      |
