@@ -25,14 +25,14 @@ This repository contains a collection of implementations of essential data struc
 
 ### Data Structures
 
-- [Array](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Data-Structures/stack-using-array.js)
+- [Array](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Data-Structures/array.js)
 - [Linked List](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Data-Structures/linkedList.js)
 
-| Name        | **Array** | **Linked List** |
-| :---------- | :-------- | :-------------- |
-| **Push**    | O(1)      | O(1)            |
-| **Pop**     | O(n)      | O(1)            |
-| **Shift**   | O(1)      | O(n)            |
-| **Unshift** | O(1)      | O(n)            |
-| **Insert**  | O(n)      | O(n)            |
-| **Delete**  | O(n)      | O(n)            |
+| Operations  | Array | Linked List |
+| :---------- | :---- | :---------- |
+| **Push**    | O(1)  | O(1)        |
+| **Pop**     | O(n)  | O(1)        |
+| **Shift**   | O(1)  | O(n)        |
+| **Unshift** | O(1)  | O(n)        |
+| **Insert**  | O(n)  | O(n)        |
+| **Delete**  | O(n)  | O(n)        |
