@@ -27,6 +27,9 @@ This repository contains a collection of implementations of essential data struc
 
 - [Array](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Data-Structures/array.js)
 - [Linked List](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Data-Structures/linkedList.js)
+  - [Doubly Linked List](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Data-Structures/doubly_Linked_List.js)
+
+#### Time Complexity
 
 | Operations  | Array | Linked List |
 | :---------- | :---- | :---------- |
