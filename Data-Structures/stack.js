@@ -17,6 +17,11 @@ class Array {
     // Remove the last element from the array
     this.array.pop();
   }
+
+  peek() {
+    // Return the peek element
+    return this.array[this.array.length - 1];
+  }
 }
 
 const myArray = new Array();
@@ -30,6 +35,8 @@ myArray.print(); // [10, 20, 30, 40, 50]
 
 myArray.pop();
 myArray.print(); // [10, 20, 30, 40]
+
+console.log("Peek -> " + myArray.peek());
 
 // <------------- Stack Implementation using Linked List -------------->
 
@@ -62,21 +69,12 @@ class LinkedList {
     console.log("Length -> " + this.length);
   }
 
-  // Get the value of the head node
-  getHead() {
-    if (!this.head) {
-      console.log("Head -> null");
-    } else {
-      console.log("Head -> " + this.head.value);
-    }
-  }
-
   // Get the value of the tail node
-  getTail() {
+  peek() {
     if (!this.tail) {
-      console.log("Tail -> null");
+      console.log("Peek -> null");
     } else {
-      console.log("Tail -> " + this.tail.value);
+      console.log("Peek -> " + this.tail.value);
     }
   }
 
@@ -128,3 +126,4 @@ node1.push(50);
 node1.pop();
 
 node1.printList();
+node1.peek();
