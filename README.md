@@ -26,8 +26,15 @@ This repository contains a collection of implementations of essential data struc
 ### Data Structures
 
 - [Array](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Data-Structures/array.js)
+- [Map](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Data-Structures/map.js)
+  - [WeakMap](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Data-Structures/weakMap.js)
+- [Set](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Data-Structures/set.js)
+  - [WeakSet](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Data-Structures/weakSet.js)
 - [Linked List](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Data-Structures/linkedList.js)
+  - [Singly Linked List](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Data-Structures/linkedList.js)
   - [Doubly Linked List](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Data-Structures/doubly_Linked_List.js)
+- [Stack](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Data-Structures/stack.js)
+- [Queue](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Data-Structures/queue.js)
 
 #### Time Complexity
 
