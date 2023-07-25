@@ -35,6 +35,7 @@ This repository contains a collection of implementations of essential data struc
   - [Doubly Linked List](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Data-Structures/doubly_Linked_List.js)
 - [Stack](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Data-Structures/stack.js)
 - [Queue](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Data-Structures/queue.js)
+- [Graph](https://github.com/suriyaprakash666/DataStructures-and-algorithms-js/blob/main/Data-Structures/hashTable.js)
 
 #### Time Complexity
 
